@@ -22,3 +22,5 @@ Windows 11 | WSL 2 | Ubuntu | PHP 8.5 | Symfony 7.4 LTS webapp
 
     # fermeture
     symfony server:stop
+
+    
